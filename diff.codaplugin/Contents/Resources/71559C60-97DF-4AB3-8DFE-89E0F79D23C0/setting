@@ -1,6 +1,6 @@
 #!/bin/sh
 
-CODA=Coda 2
+CODA="Coda 2"
 SETTING_FILE=${HOME}/.coda_difftool
 
 if [ ! -f ${SETTING_FILE} ]; then

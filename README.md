@@ -51,3 +51,5 @@
 ### v1.1
  * v1.1 アプリケーション呼び出し方法変更
 
+### v1.2
+ * v1.2 アプリケーション呼び出し時バグ修正（Unable to find application named ''）
